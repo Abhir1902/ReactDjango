@@ -152,7 +152,7 @@ def getTicketData(request):
 @api_view(['POST']) 
 def postRequest(request):
     userAction = request.data 
-    conn = sqlite3.connect("D:\ABHIR\django-projects\djangoReact\ReactDjango\Server\DjangoServer\db.sqlite3")
+    conn = sqlite3.connect(<path_to_sqlite3_file>)
 
 
     df_ticket = pd.read_sql_query("SELECT * FROM djangoRestApp_ticket", conn) 

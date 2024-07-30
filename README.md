@@ -13,6 +13,7 @@ One of the key features of this platform is its capability to offer dummy financ
 - **KNN Algorithm for Classification**: An intelligent system that determines financial aid approval based on user input and specific criteria.
 
 ## Project Architecture
+![image](https://github.com/user-attachments/assets/1e0ddb55-7993-477b-8bed-b8859bb86a0a)
 
 
 ## Installation
